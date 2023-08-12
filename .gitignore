@@ -1,1 +1,5 @@
+# env
+pgpt/
 
+# model file
+models/*.bin

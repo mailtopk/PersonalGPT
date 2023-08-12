@@ -1,0 +1,4 @@
+python-dotenv
+gpt4all==0.2.3
+streamlit
+pandas
