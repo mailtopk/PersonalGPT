@@ -40,13 +40,17 @@ Application has one page and it build on Streamlit framework.
 ![](images/mainScreen.png)
 
 ### Processing Question 
-This step may take few min depend on local machine access
+This step may take few min depend on local machine memory
 
 ![](images/ProcessingRequest.png)
 
 ### Processed 
 GPT response to the question
 
+Example 1 :
 ![](images/ProcessedRequest.png)
+
+Example 2:
+![](images/mainScreen2.png)
 
 
