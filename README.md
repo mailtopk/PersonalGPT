@@ -9,7 +9,7 @@ You need internet for the initial setup.
 3. Pip install all required dependency.
 
 ### Download gpt model 
-Download __ggml-gpt4all-j-v1.3-groovy__ model from internet.
+Download __ggml-gpt4all-j-v1.3-groovy__ model from internet, place the model into __models__ folder of this project
 
 ### Create Virtual Environment
 Creat python virtual environment, below example will create an __pgpt__ environment
@@ -40,10 +40,13 @@ Application has one page and it build on Streamlit framework.
 ![](images/mainScreen.png)
 
 ### Processing Question 
-This may take few min depend on local machine access
+This step may take few min depend on local machine access
+
 ![](images/ProcessingRequest.png)
 
 ### Processed 
+GPT response to the question
+
 ![](images/ProcessedRequest.png)
 
 
